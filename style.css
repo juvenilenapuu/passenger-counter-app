@@ -23,11 +23,28 @@ body {
     padding: 20px;
 }
 
+.container{
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
+<<<<<<< HEAD
     color:Black;
     font-family: sans-serif;
+=======
+    color: black;
+>>>>>>> 505863bf16531ee1a72e145d65a379013413138a
 }
 
 h2 {
